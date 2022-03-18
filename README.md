@@ -1,6 +1,6 @@
 # Persona-MBTI
 
-#General Info
+## General Info
 I am friends with the Presidient of Sookmyung Women's Universities French Culture Society.<br>
 The Society is also known as Persona.<br>
 Due to the current COVID-19 situation the society members are unable to do any in-person events.<br>
@@ -26,3 +26,8 @@ This was my first time using the Kakao SDK. This allowed users share their their
 This project was inspired by a tutorial series by 판다코딩.<br>
 You can watch the series here: https://www.youtube.com/playlist?list=PLgqG2uj21HgmvkxcxKD0aYvF8zs0LGAES <br>
 Watching this series was a unique way to improve my Korean listening skills.
+
+## Persona
+Find out more about Persona<br>
+Instagram: https://www.instagram.com/persona_smwu/ <br>
+Youtube: https://youtu.be/WJZduC_RwjA
