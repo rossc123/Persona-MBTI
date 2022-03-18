@@ -6,8 +6,7 @@ The Society is also known as Persona.<br>
 Due to the current COVID-19 situation the society members are unable to do any in-person events.<br>
 In response to this my friend and I collaborated on an web app that people could enjoy safely<br>
 <br>
-The web app was made to accompany a retelling of La Réunification des deux Corées a play by French writer Joël Pommerat,<br>
-performed by Persona society members<br>
+The web app was made to accompany a retelling of La Réunification des deux Corées a play by French writer Joël Pommerat, performed by Persona society members<br>
 The web app is comprised of a set of questions that the user asnwers, similiar to those found in a MBTI perosnality test.<br>
 Once the user completes the questions they will be shown which charcter from the play they are the most similar to<br>
 The user can then share this result on KakaoTalk<br>
