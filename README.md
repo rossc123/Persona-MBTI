@@ -20,6 +20,7 @@ Working on this project with a non-native English speaker gave me great insight 
 * JavaScript
 * Bootstrap
 * Kakao SDK
+
 Bootstap did most of the heavy lifting here<br>
 This was my first time using the Kakao SDK. This allowed users share their their results though KakaoTalk easily and helped the web app to spread.
 
